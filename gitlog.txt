@@ -1,0 +1,29 @@
+From 68c1c976965c951ca8d43d2b8baaec67c7bf6c3f
+From: jeremy <dpljer001@myuct.ac.za>
+Date: Tue, 17 Apr 2018 09:02:25 +0200
+Subject: [PATCH] All results correctly and graphs accurate
+
+From a43758b1b144e3817d4835f8f0a4d51d3c4bff01 
+From: jeremy <dpljer001@myuct.ac.za>
+Date: Tue, 17 Apr 2018 00:55:42 +0200
+Subject: [PATCH] graphs working
+
+From 7a66440b330ef70f8de310ffad31d130a60ef6e4
+From: jeremy <dpljer001@myuct.ac.za>
+Date: Mon, 16 Apr 2018 23:59:08 +0200
+Subject: [PATCH] tests working
+
+From df81d2d076e5a094d0b01b33a0a7a10688b5d0a1
+From: jeremy <dpljer001@myuct.ac.za>
+Date: Mon, 16 Apr 2018 11:30:25 +0200
+Subject: [PATCH] GUI working
+
+From 910a03d51d158b1354071b2f3c804b270d2a9bd5
+From: jeremy <dpljer001@myuct.ac.za>
+Date: Wed, 11 Apr 2018 18:06:45 +0200
+Subject: [PATCH] Hashtable test application working, started work on GUI
+
+From de408cd7626e96183bb990836785f0723f49c93c
+From: jeremy <dpljer001@myuct.ac.za>
+Date: Tue, 10 Apr 2018 18:41:21 +0200
+Subject: [PATCH] All basic classes written
