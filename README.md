@@ -12,11 +12,11 @@ The results show that as the size of the data set increases (given a table size 
 
 When inserting data into each of the data structures, plotting the average number of collisions per entry communicates a similar result:
 
-![structure](/images/GUI.png)
+![structure](/images/collisions.png)
 
 Finally, here is a screenshot of the GUI I built for the assignment - a voter database search application - which makes use of the AVL-hashtable data structure to store and returieve voter information:
 
-![structure](/images/comparisons.png)
+![structure](/images/GUI.png)
 
 If you would like to run launch and run the application, clone the repository and enter the following command while in the root directory:
 
