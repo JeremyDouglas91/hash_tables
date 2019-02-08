@@ -20,10 +20,10 @@ Finally, here is a screenshot of the GUI I built for the assignment - a voter da
 
 If you would like to run launch and run the application, clone the repository and enter the following command while in the root directory:
 
-'$java -cp bin hashTableGui'
+`$java -cp bin hashTableGui`
 
 Try searching using one of the following ID numbers:
 
-3584409447843
-5117524460143
+3584409447843<br/>
+5117524460143<br/>
 3319324133837
