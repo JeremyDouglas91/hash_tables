@@ -24,6 +24,6 @@ If you would like to run launch and run the application, clone the repository an
 
 Try searching using one of the following ID numbers:
 
-3584409447843 \n
-5117524460143 \n
+3584409447843
+5117524460143
 3319324133837
